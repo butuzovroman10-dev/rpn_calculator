@@ -42,4 +42,5 @@ Thumbs.db
 *.so
 *.dylib
 *.dll
-*.exe
+*.exehtml/
+latex/
